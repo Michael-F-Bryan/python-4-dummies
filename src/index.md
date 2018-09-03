@@ -8,5 +8,6 @@ through at your own pace.
 
 - [Google](https://google.com/)
 - [This Document](https://michael-f-bryan.github.io/python-4-dummies)
-- [The Issue Tracker]()
+- [The Repository](https://github.com/Michael-F-Bryan/python-4-dummies)
+- [The Issue Tracker](https://github.com/Michael-F-Bryan/python-4-dummies/issues)
 - [Python Docs](https://docs.python.org/3/)
